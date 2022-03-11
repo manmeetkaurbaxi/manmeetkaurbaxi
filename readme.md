@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Manmeet Kaur Baxi</h1>
 <h3 align="center">M.Sc (CS) student, Graduate Assistant at Lakehead University | Teaching Assistant at Vector Institute</h3>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="400px"/>
-
 <h3 align="left">🧐 More About Me:</h3>
 
 - 🔭 I’m currently working on my thesis: **"Quantifying the impact of Twitter activity in political battlegrounds".**
