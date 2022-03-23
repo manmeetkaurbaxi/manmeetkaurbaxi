@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on my thesis: **"Quantifying the impact of Twitter activity in political battlegrounds".**
 - 👯 I’m looking to collaborate on **Natural Language Processing (NLP) and Machine Learning (ML) projects.**
 - 🌱 I’m **addicted to learning and growing every day.**
-- 💬 Ask me about **Python, ML, NLP. I am happy to help.🙂**
 - 📫 Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/manmeetkaurbaxi/)**
 
 <h3 align="left">🔨 Languages and Tools:</h3>
