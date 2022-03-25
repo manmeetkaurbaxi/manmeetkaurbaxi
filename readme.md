@@ -40,5 +40,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manmeetkaurbaxi&show_icons=true&locale=en&count_private=true" alt="manmeetkaurbaxi" width="424px"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manmeetkaurbaxi&show_icons=true&locale=en&layout=compact" alt="manmeetkaurbaxi" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manmeetkaurbaxi&label=Profile Views&color=blue&style=for-the-badge" alt="manmeetkaurbaxi" /> </p>
-<p><a href="https://github.com/manmeetkaurbaxi"><img alt="Manmeet's Activity Graph" width="1200px" src="https://activity-graph.herokuapp.com?username=manmeetkaurbaxi&bg_color=ffffff&color=000000&line=93d3f5&point=000000&area=true&area_color=93d3f5&hide_border=true"/></a></p>
+<p><a href="https://github.com/manmeetkaurbaxi"><img alt="Manmeet's Activity Graph" width="1200px" src="https://activity-graph.herokuapp.com/graph?username=manmeetkaurbaxi&bg_color=ffffff&color=000000&line=93d3f5&point=000000&area=true&area_color=93d3f5&hide_border=true"/></a></p>
 
