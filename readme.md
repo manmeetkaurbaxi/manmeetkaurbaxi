@@ -1,12 +1,14 @@
 <h1 align="center">Hi👋, I'm Manmeet Kaur Baxi</h1>
-<h3 align="center">Research Assistant at Lakehead University | Models and Analytics at Scotiabank</h3>
+<h3 align="center">Models and Analytics at Scotiabank | AI, NLP, Data Mining | LakeheadU Grad</h3>
 
-<h3 align="left">🧐 More About Me:</h3>
+<h3 align="left">🧐 More about me:</h3>
 
-- 🔭 I’m currently working on my thesis: **"Quantifying the impact of Twitter activity in political battlegrounds".**
-- 👯 I’m looking to collaborate on **Natural Language Processing (NLP) and Machine Learning (ML) projects.**
+- 🎓 Recent graduate from Lakehead University with a Master's of Science in Computer Science (Specialization in AI-Thesis).
+- 🔭 I’m seeking a full-time position in **Data Science** or **Software Development**.
+- 👯 I’m looking forward to collaborate on **Natural Language Processing (NLP) and Machine Learning (ML) projects.**
 - 🌱 I’m **addicted to learning and growing every day.**
 - 📫 Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/manmeetkaurbaxi/)**
+
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left"> 
