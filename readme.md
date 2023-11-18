@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Manmeet Kaur Baxi</h1>
-<h3 align="center">Models and Analytics at Scotiabank | AI, NLP, Data Mining | LakeheadU Grad</h3>
+<h3 align="center">Models and Analytics at Scotiabank | Part-time Professor | AI, NLP, Data Mining</h3>
 
 <h3 align="left">🧐 More about me:</h3>
 
@@ -41,6 +41,6 @@
 <h3 align="left">📊 Github Stats</h3> 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manmeetkaurbaxi&show_icons=true&locale=en&count_private=true" alt="manmeetkaurbaxi" width="424px"/></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manmeetkaurbaxi&show_icons=true&locale=en&layout=compact" alt="manmeetkaurbaxi" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manmeetkaurbaxi&label=Profile Views&color=blue&style=for-the-badge" alt="manmeetkaurbaxi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manmeetkaurbaxi&label=Profile Views&color=blue&style=for-the-badge" alt="manmeetkaurbaxi" /> </p> -->
 
 
