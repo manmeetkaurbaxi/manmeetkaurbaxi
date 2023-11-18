@@ -4,7 +4,6 @@
 <h3 align="left">🧐 More about me:</h3>
 
 - 🎓 Recent graduate from Lakehead University with a Master's of Science in Computer Science (Specialization in AI-Thesis).
-- 🔭 I’m seeking a full-time position in **Data Science** or **Software Development**.
 - 👯 I’m looking forward to collaborate on **Natural Language Processing (NLP) and Machine Learning (ML) projects.**
 - 🌱 I’m **addicted to learning and growing every day.**
 - 📫 Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/manmeetkaurbaxi/)**
