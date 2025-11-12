@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Manmeet Kaur Baxi</h1>
-<h3 align="center"> Data Scientist | AI, NLP, Data Mining</h3>
+<h3 align="center"> Data Scientist & Adjunct Professor | AI, NLP, Data Mining</h3>
 
 <h3 align="left">🧐 More about me:</h3>
 
