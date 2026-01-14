@@ -1,10 +1,9 @@
 <h1 align="center">Hi👋, I'm Manmeet Kaur Baxi</h1>
-<h3 align="center"> Data Scientist & Adjunct Professor | AI, NLP, Data Mining</h3>
+<h3 align="center"> Data Scientist Engineer & Instructor | Big Data, Azure, Databricks, Pydantic AI, Automation, Analytics</h3>
 
 <h3 align="left">🧐 More about me:</h3>
 
 - 🎓 Graduate from Lakehead University with a Master's of Science in Computer Science (Specialization in AI-Thesis).
-- 👯 I’m looking forward to collaborate on **Natural Language Processing (NLP) and Machine Learning (ML) projects.**
 - 🌱 I’m **addicted to learning and growing every day.**
 - 📫 Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/manmeetkaurbaxi/)**
 
