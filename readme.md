@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Manmeet Kaur Baxi</h1>
-<h3 align="center"> Data Scientist Engineer & Instructor | Big Data, Azure, Databricks, Pydantic AI, Automation, Analytics</h3>
+<h3 align="center"> Data Science Engineer & Instructor | Big Data, Azure, Databricks, Pydantic AI, Automation, Analytics</h3>
 
 <h3 align="left">🧐 More about me:</h3>
 
